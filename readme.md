@@ -19,7 +19,7 @@ Si te ha gustado o te ha servido coméntalo en un directo o sígueme por Twitch 
 * [Estrategia Multicanal](https://www.youtube.com/watch?v=xjERpR298y4)
 
 ## Contenidos 
-* [PDF]()
+* [PDF](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/Trabajo.pdf)
 * [Readme de Github para el Perfil](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/readme_perfil_github.md)
 * [Readme de Github para los proyectos](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/readme_proyecto.md)
 
