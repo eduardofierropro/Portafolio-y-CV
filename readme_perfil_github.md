@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋, Soy TU NOMBRE</h1>
 <h3 align="center">QUE TE APASIONA</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=url-de-github" alt="url-de-github" /></a> </p>
+![Imagen decorativa de tu perfil]()
 
 - 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
 
