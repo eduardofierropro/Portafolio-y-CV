@@ -5,7 +5,7 @@ En este repositorio encontrarás la plantilla básica para tu perfil de Github y
 Si te ha gustado o te ha servido coméntalo en un directo o sígueme por Twitch y Youtube 😊
 
 ## Vídeo con el PDF con explicaciones en directo
-* [Masterclass sobre Portfolio y CV para Desarrolladores](https://youtu.be/Hn7gQrp489s)
+* [Masterclass sobre Portfolio y CV para Desarrolladores](https://youtu.be/1XLUnHviqxI)
 
 ## Vídeos relacionados en Youtube
 * [Básicos de un portafolio](https://www.youtube.com/watch?v=nLSDyNhbUnY)
