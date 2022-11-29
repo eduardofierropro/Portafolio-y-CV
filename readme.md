@@ -15,15 +15,15 @@ Si te ha gustado o te ha servido coméntalo en un directo o sígueme por Twitch 
 
 | Nombre | Youtube |
 |--|--|--|--|
-|Básicos de un portafolio|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=nLSDyNhbUnY)
-|LEAN Startup y Portafolio|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/j6RZqCe4hTs)
-|Metodologías CSS|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=f0LpZoyY1gE)
-|Creando un portafolio desde cero|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/XAwXz2w3vlg)
-|Portafolio y LinkedIn|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=--mCLmUR8gs)
-|LinkedIn desde cero|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/fPpkIvz85UQ)
-|Portafolio y Github|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=xjERpR298y4)
-|Perfil de Github paso a Paso|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/W5morje1Fjs)
-|Estrategia Multicanal|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=xjERpR298y4)
+|Básicos de un portafolio|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=nLSDyNhbUnY)|
+|LEAN Startup y Portafolio|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/j6RZqCe4hTs)|
+|Metodologías CSS|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=f0LpZoyY1gE)|
+|Creando un portafolio desde cero|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/XAwXz2w3vlg)|
+|Portafolio y LinkedIn|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=--mCLmUR8gs)|
+|LinkedIn desde cero|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/fPpkIvz85UQ)|
+|Portafolio y Github|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=xjERpR298y4)|
+|Perfil de Github paso a Paso|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/W5morje1Fjs)|
+|Estrategia Multicanal|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=xjERpR298y4)|
 
 
 ## 👨🏻‍🏫 Eduardo Fierro Pro
