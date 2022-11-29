@@ -14,7 +14,7 @@ Si te ha gustado o te ha servido coméntalo en un directo o sígueme por Twitch 
 ## Potencia y prepara tu portfolio como dev
 
 | Nombre | Youtube |
-|--|--|--|--|
+|--|--|
 |Básicos de un portafolio|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=nLSDyNhbUnY)|
 |LEAN Startup y Portafolio|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/j6RZqCe4hTs)|
 |Metodologías CSS|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=f0LpZoyY1gE)|
