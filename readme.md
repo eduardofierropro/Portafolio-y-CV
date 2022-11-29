@@ -44,5 +44,4 @@ Si te ha gustado o te ha servido coméntalo en un directo o sígueme por Twitch 
 ## 📄 Licencia 
 
 MIT Public License v3.0
-No puede usarse comencialmente
-
+No puede usarse comercialmente
