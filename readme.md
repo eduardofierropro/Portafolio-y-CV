@@ -6,7 +6,7 @@ En este repositorio encontrarás la plantilla básica para tu perfil de Github y
 
 Si te ha gustado o te ha servido coméntalo en un directo o sígueme por Twitch y Youtube 😊
 
-[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/1XLUnHviqxI)
+[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=68L5UgEzoQI)
 [![PDF](https://img.shields.io/static/v1?label=&message=descargar%20pdf&color=lightblue&logo=pdf&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/Trabajo.pdf)
 [![Perfil](https://img.shields.io/static/v1?label=&message=readme%20proyectos&color=000000&logo=markdown&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/readme_proyecto.md)
 [![Proyectos](https://img.shields.io/static/v1?label=&message=readme%20perfil&color=000000&logo=markdown&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/readme_perfil_github.md)
